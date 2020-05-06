@@ -1,0 +1,21 @@
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\bin\Debug\Submission Tracker.exe.config
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\bin\Debug\Submission Tracker.exe
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\bin\Debug\Submission Tracker.pdb
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\bin\Debug\System.ValueTuple.dll
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\bin\Debug\System.ValueTuple.xml
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\View\SubmissionTrackerWindow.baml
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\View\SubmissionTrackerWindow.g.cs
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\View\SignInWindow.g.cs
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\View\Workspace.g.cs
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\App.g.cs
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\Submission Tracker_MarkupCompile.cache
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\Submission Tracker_MarkupCompile.lref
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\View\SignInWindow.baml
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\View\Workspace.baml
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\Submission Tracker.g.resources
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\Submission_Tracker.Properties.Resources.resources
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\Submission Tracker.csproj.GenerateResource.cache
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\Submission Tracker.csproj.CopyComplete
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\Submission Tracker.exe
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\Submission Tracker.pdb
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\Submission Tracker.csprojAssemblyReference.cache

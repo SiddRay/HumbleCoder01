@@ -1,0 +1,8 @@
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\Perforce Advanced Diff Tool.csprojAssemblyReference.cache
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\View\PerforceAdvancedDiffTool.baml
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\View\PerforceAdvancedDiffTool.g.cs
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\View\PerforceSignInWindow.g.cs
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\View\Workspace.g.cs
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\App.g.cs
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\PerforceAdvancedDiffTool_MarkupCompile.cache
+C:\Users\siray\Documents\Visual Studio 2015\Projects\Submission Tracker\Submission Tracker\obj\Debug\PerforceAdvancedDiffTool_MarkupCompile.lref
